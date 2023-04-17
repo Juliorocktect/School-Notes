@@ -12,4 +12,9 @@
 -Treibstoff den wir nehemen :
 - - RP-1 
 - - Wasserstoffperoxid
-
+## Wann muss ich bremsen wenn ich beim Mars bin 
+- sodass ich nicht abstürze 
+## Unsere Annahmen
+- Fliegen mit der Falcon Heavy ins schwerelose
+- schießen eine Zweite rakete mit treibstoff
+- wir ignorieren das ungleichmäßige abfallen der gravitation
