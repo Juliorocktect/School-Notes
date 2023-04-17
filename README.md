@@ -1,6 +1,6 @@
 # Lyrik
 
-**Kadenz**
+# Kadenz
 
 - Männliche, Weibliche, Reiche
 - Betonung am ende des Verses
@@ -9,3 +9,7 @@
 - - Männlich: vorletzte unbetont letzte betont
 - - Reiche: Endet auf mehrere unbetonte Silben
 - Man darf sich nie die letzte silbe anschauen
+
+# Standardfromen
+
+
