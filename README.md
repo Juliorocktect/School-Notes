@@ -1,1 +1,5 @@
-# School-Notes
+# Lyrik
+
+**Kadenz**
+
+- Männliche, Weibliche, Reiche
