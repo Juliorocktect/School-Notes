@@ -18,3 +18,5 @@
 - Fliegen mit der Falcon Heavy ins schwerelose
 - schießen eine Zweite rakete mit treibstoff
 - wir ignorieren das ungleichmäßige abfallen der gravitation
+#TODO:
+- min schubkraft die benötigt wird um abzuheben bei der schwersten masse, dannach wird die masse sowieso verringert
