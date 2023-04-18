@@ -80,5 +80,6 @@ public class VideoRecommender {
         };
         String[] users = {"User1", "User2", "User3", "User4", "User5"};
         String[] videos = {"Video1", "Video2", "Video3", "Video4", "Video5"};
-        VideoRecommender recommender = 
+        VideoRecommender recommender =  new VideoRecommender(ratings, users, videos);
+        Set<String> recommendations
 ```
