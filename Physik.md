@@ -25,5 +25,5 @@
 - wir fliegen mit 357142,68 km/h also in einer woche sind wir beim mars
 - welche kinetische energie wird benötigt um zu bremsen 
 # Rechnungen
-`1/2 * m * v^2 = J`
-`1/2* 1420062*99206.349206^2 = 6.98805*10^15`
+- `1/2 * m * v^2 = J`
+- `1/2* 1420062*99206.349206^2 = 6.98805*10^15`
