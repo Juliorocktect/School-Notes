@@ -30,4 +30,4 @@
 - Masse Mars ` 6,4185 x 1023 kg `
 - Masse der Rakete`in kg 1420062)`
 - Radius `260km`
-- 
+- Ekin benötigt zum Bremsen  ` 4,925 * 10^13 Joule.`
