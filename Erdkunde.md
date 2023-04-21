@@ -23,5 +23,5 @@
 
 ## regional 
 - saudi arabias economy rose, kuwait and 
-
+- opec countries own 81 % of global petroleum resources
 
