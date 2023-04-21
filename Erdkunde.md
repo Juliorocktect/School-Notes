@@ -15,10 +15,13 @@
 - deposit: a place where sth. is stored
 
 # p. 188 nr. 1
-
+# global
 - global importance shown by presence of us / nato military missions
 - most oil reserves globally are in this region 
 - biggest states with oil reserves 
 - - venezuela 
+
+## regional 
+- saudi arabias economy rose, kuwait and 
 
 
