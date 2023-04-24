@@ -25,3 +25,29 @@
 - saudi arabias economy rose, kuwait and 
 - opec countries own 81 % of global petroleum resources
 
+# Niger Delta
+- a river in africa 
+- delta located in nigeria
+- southern hemisphere 
+- Port Harcout 
+- 5-7 degrees east and 
+- capital abuja
+- merges into atlantic ocean
+## economy
+- major region for oil production
+### problems 
+- oil pollution 
+- in water 
+## implications of oil production 
+- huge gap 
+- econmic growth 
+- international important 
+- illegal tapping form locals 
+- move towards the oil plants
+- big gap between rich and poor
+## social
+oil tipping
+
+## Questions
+- intorduction
+- - Hello to posdcast & our topic today
