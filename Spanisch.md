@@ -19,3 +19,11 @@
  ## Texto 2 
  - no tienen libertad de expression
  ## Texto 4
+ - muchos immigrantes  
+ - no tienen posibilidades cmoprendo comida 
+ - o vivior sin trabajo 
+ - gobierno , 
+ - libertad 
+ - protestan, la policia es contra ellos 
+ - el gobierno 
+ - esu offerse muchos trabajados buenos
