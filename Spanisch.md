@@ -4,10 +4,14 @@
 - los gobiernos `der Staat`
 - convirt 	`umwandeln`
 - maniobora `manöver`
-- válvula `ventil`
+- válvula `ventil`
 
 ## Explicar
 - El passaporte cubano es uno de los más restrictidos `eingeschränkt`
 - por eso fuen a nicaragua, porque los cubanos pueden vijar a nicaragua  como toristos 
 - es ona pueto por los cubanos a los estados unidos
 - ` regierung schickt leute ins ausland in einer Krise, damit `
+# Texto 1 
+- Corona mas caro,
+- los immigranetes son entre 15 y 59 anos
+- 22 US$ mensuales
