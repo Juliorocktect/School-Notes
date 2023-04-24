@@ -16,3 +16,6 @@
 - los immigranetes son entre 15 y 59 anos
 - 22 US$ mensuales
 - trabajador muy mal 
+ ## Texto 2 
+ - no tienen libertad de expression
+ ## Texto 4
