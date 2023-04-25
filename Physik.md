@@ -20,6 +20,7 @@
 - wir ignorieren das ungleichmäßige abfallen der gravitation
 - Mars ist 60 Millionen km von der erde entfernt
 - wenn im all welche geschwindigkeit benötigen wir. 
+- wir können den treibstoff verbrauch nicht brechnen, weil keine Integral rechnung können
 # TODO:
 - min schubkraft die benötigt wird um abzuheben bei der schwersten masse, dannach wird die masse sowieso verringert
 - wir fliegen mit 357142,68 km/h also in einer woche sind wir beim mars
