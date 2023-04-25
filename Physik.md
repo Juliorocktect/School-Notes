@@ -10,8 +10,8 @@
 ## Gewicht mit Treibstoff
 1420 t + 20,062t = 1420,062t (in kg 1420062)
 -Treibstoff den wir nehemen :
-- - Hydrazin gut wegen dichte und geschwindigkreit 
-- - Flour
+- - Wasserstoff
+- - Sauerstoff
 ## Wann muss ich bremsen wenn ich beim Mars bin 
 - sodass ich nicht abstürze 
 ## Unsere Annahmen
