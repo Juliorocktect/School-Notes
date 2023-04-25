@@ -45,4 +45,4 @@
 - Zeit die benötigt wird um auf 7,8 km/s zu kommen:
 - `t = v/a`
 - `t = 7.800m/s `
-$\frac{7.800 m/s }{14,08}$
+- $\frac{7.800 m/s}{14,08}$
