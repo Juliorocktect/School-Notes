@@ -31,5 +31,14 @@
 - Masse der Rakete`in kg 1420062)`
 - Radius `260km`
 - Ekin benötigt zum Bremsen  ` 4,925 * 10^13 Joule.`
-- schub 22.819 kN mit allen boostern
+- schub 22.819 kN mit allen boostern //Ist egal
+## Startmanöver
+- Kinetische Energie:
+- - 1/2 * m *v²
+- `= 1/2 * 1.420.000kg *7,8km/s²`
+- `= 38.384.4*10^8`
+-  
+-  
+
+
 - 
