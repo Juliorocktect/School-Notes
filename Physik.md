@@ -32,13 +32,17 @@
 - Radius `260km`
 - Ekin benötigt zum Bremsen  ` 4,925 * 10^13 Joule.`
 - schub 22.819 kN mit allen boostern //Ist egal
-## Startmanöver
+- -durchschnittlicher Schub 20.000 kN
+# Startmanöver
 - Kinetische Energie:
 - - 1/2 * m *v²
 - `= 1/2 * 1.420.000kg *7,8km/s²`
-- `= 38.384.4*10^8`
--  
--  
-
-
-- 
+- `= 38.384.4*10^8 Joule`
+## Die Beschleunigung der Rakete
+- `a = F / m`
+- `20.000.000N / 1420.000kg`
+- `a = 14,08`
+- Zeit die benötigt wird um auf 7,8 km/s zu kommen:
+- `t = v/a`
+- `t = 7.800m/s `
+$\frac{7.800 m/s }{14,08}$
