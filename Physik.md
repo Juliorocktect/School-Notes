@@ -4,8 +4,8 @@
 - 62Kg essen für eine Besatzung von 4 Personen über einen Zeitraum von 32 Tage
 - Labor + ausrüstung = 20t
 - 
-- Macht dann 40,062t
-- Rakete 1420 t
+- Macht dann 40t
+- Rakete 1420t
 - 
 ## Gewicht mit Treibstoff
 1420 t + 20,062t = 1420,062t (in kg 1420062)
