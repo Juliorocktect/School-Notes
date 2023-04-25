@@ -8,7 +8,7 @@
 - Rakete 1420t
 - 
 ## Gewicht mit Treibstoff
-1420 t + 20,062t = 1420,062t (in kg 1420062)
+1400 t + 20,062t = 1420,062t (in kg 1420062)
 -Treibstoff den wir nehemen :
 - - Wasserstoff
 - - Sauerstoff
