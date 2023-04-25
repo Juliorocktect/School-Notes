@@ -47,4 +47,4 @@
 - $\frac{7.800 m/s}{14,08}$
 - `t = 553,977s`
 - $t \approx 554s$	
-- $554s \approx 9.23$
+- $554s \approx 9.23 Minuten $
