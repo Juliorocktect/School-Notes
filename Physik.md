@@ -31,3 +31,5 @@
 - Masse der Rakete`in kg 1420062)`
 - Radius `260km`
 - Ekin benötigt zum Bremsen  ` 4,925 * 10^13 Joule.`
+- schub 22.819 kN mit allen boostern
+- 
