@@ -28,7 +28,11 @@ gemeinsam haben und was sie unterscheidet
 - Lebensmittelengpässe 
 - Missernte vor Vielen Revolutionen 1988
 - Steuerlast nur auf dem dritten Stand
-
+- Wenig Rechte für den dritten stand
+- keine politische Stimme
+- Hohe brotpreise
+- Generalstandversammlung war nicht fair
+- Existenznot von vielen im dritten stand
 # Quellenanalyse
 ---
 ## Eineleitung
@@ -53,3 +57,52 @@ gemeinsam haben und was sie unterscheidet
 - System Erklären
 ## Bewerten
 - Kommentar
+---
+# Französische Revolution
+## Was ist eine Revolution
+## Beginn der Revolution
+### Generalständeversammlung
+- 1. und 2. Stand verweigerten die Reform
+- Jeder Stand hatte eine Stimme
+- repräsentitert nicht die Gesellschaft
+- 17.06.1789: dritter Stand erklärt sich zur nationalverammlung
+### Ballhausschwur
+- 20.06.1789
+### Sturm auf die Bastille
+- 4.07.1789
+### Bauernrevolten auf dem Land
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
