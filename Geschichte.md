@@ -16,3 +16,4 @@ gemeinsam haben und was sie unterscheidet
 - Gründe für den Ausbruch der Revolution 
 - Verlauf soweit wir kommen
 - Quellenanalyse
+- Absolutismus
