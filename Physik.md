@@ -49,3 +49,7 @@
 - `t = 553,977s`
 - $t \approx 554s$	
 - $554s \approx 9.23 Minuten $
+# Auf welche Geschiwindikeit muss ich beschleunigen
+- t = v/a
+- t = 375.000km/h/14,08m/s^2
+- 
