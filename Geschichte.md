@@ -21,4 +21,10 @@ gemeinsam haben und was sie unterscheidet
 - Probleme 
 - S. 240 - 248
 - bis 1791 lernen
-- 
+# Probleme 
+- Finanzprobleme 
+- Stehendes Heer 
+- Finanzeirung von dem Krieg in Amerika
+- Lebensmittelengpässe 
+- Missernte vor Vielen Revolutionen 1988
+- Steuerlast nur auf dem dritten Stand
