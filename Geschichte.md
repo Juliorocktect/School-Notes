@@ -17,3 +17,5 @@ gemeinsam haben und was sie unterscheidet
 - Verlauf soweit wir kommen
 - Quellenanalyse
 - Absolutismus
+- Stände System 
+- Probleme 
