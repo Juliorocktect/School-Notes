@@ -35,13 +35,13 @@ gemeinsam haben und was sie unterscheidet
 - Existenznot von vielen im dritten stand
 ---
 # Quellenanalyse
-## Eineleitung
+## Einleitung
 - Titel 
-- AUtor 
+- Autor 
 - Entstehungsjahr
 - Primärquelle / Traditionsquelle(Biografie/Denkmal) / Sekundärquelle
 - Intention
-- Addressat Öffentlich,Privat
+- Addressat öffentlich, Privat
 - Überrest
 - Historisch 
 - Thema
@@ -57,6 +57,20 @@ gemeinsam haben und was sie unterscheidet
 - System Erklären
 ## Bewerten
 - Kommentar
+---
+# Absolutismus
+- Eingerichtet unter dem Ludwig dem 14.
+- Ende Ludwig 16.
+## was er verändert hat 
+- entzieht Adeligen zentrale positionen im politischen System
+- ersetzt durch bauern, weil die sind weniger von sich eingenommen 
+- Ständegesellschaft
+## Die Aufklärer
+- Freiheit und Gleichheit, neue Staatsformen
+- gaben dem Volk Gedanken vor
+- John Lock, Montesquieu, Hobbes, Russou
+- macht verteilung
+- erst ab 1700
 ---
 # Französische Revolution
 ## Was ist eine Revolution
@@ -91,11 +105,15 @@ gemeinsam haben und was sie unterscheidet
 - Jeder Stand hatte eine Stimme
 - repräsentitert nicht die Gesellschaft
 - 17.06.1789: dritter Stand erklärt sich zur nationalverammlung
+- manche ärmeren aus dem 1. und 2. Stand
 ### Ballhausschwur
-- 20.06.1789
-- 
+- `20.06.1789`
+- schwur an der Nationalversammlung
+- in einem Ballhaus in Versaille
+- gehen erst wieder, wenn es eine Verfassung gibt die allen Franzosen gleiche Rechte gibt  
+- wegen dem gerücht, dass der König militär einsetzen will um die Versammlung zu zerschlagen, bewaffnen sich die Leute
 ### Sturm auf die Bastille
-- `4.07.1789`
+- `14.07.1789`
 - Läutet den Beginn der Revolution ein
 #### Vorher 
 - Schißpulver wird gelagert
@@ -115,31 +133,55 @@ gemeinsam haben und was sie unterscheidet
 - verbrannten Besitzurkunden und Schuldbriefe
 ### Aufhebung des Ständesystems
 - Slogan : Freiheit, Gleichheit, Brüderlichkeit
-- gegen die Absolutistische konstitionelle Monarchie und das Ständesystem
+- gegen die absolutistische Monarchie und das Ständesystem
 - es sollte keine Privilegien mehr geben wie das Jagdrecht
 - Steuern sollte es für alle geben
-- Das Ständesystem wurde am `4/5.8.1789` Augehoben, nachden Bauernrevolten
+- Jeder darf jeden Beruf ausführen
+- Keine Besitzabnahme der Adeligen 
+- Das Ständesystem wurde am `4/5.8.1789` aufgehoben, nachdem Bauernrevolten
 #### Freiheit
 - das Ende der Politischen Rechtslosigkeit
 - Politische Mitbestimmungsrechte
 - Bauern wollten ihre eigenen Angelegenheiten selbs regeln
 #### Gleichheit
-- gibt keine Rechtlichen Privilegien z.B.: `Jagdrecht und Steuern für alle`
+- gibt keine rechtlichen Privilegien z.B.: `Jagdrecht und Steuern für alle`
 - alle sind Gleich
 #### Brüderlichkeit
-- Man hällt zusammen und unterstützt einander
+- Man hält zusammen und unterstützt einander
 ### Erklärung von Menschen und Bürgerrechten
-### Ziele 
+- `26.08.1789`
+- Orientiert an der amerikanischen Unabhängigkeitserklärung
+- Recht auf Freiheit
+- Recht auf Eigentum
+- Recht auf Sicherheit
+- Recht auf Widerstand
+- Religionsfreiheit
+- Recht auf selbstbestimmung
 ## Die Radikale Revolution (1791-1793)
 ### Die neue Verfassung
-### Fluchtversuch vom König
-### Kriegserklärung an Österreich
-### Sturm auf die Tuilerien
-### Aufhebung des Königtums
+- Konstitionelle Monarchie
+- Die Macht des Königs wurde Reduziert 
+- Allerdings hat er noch den Oberbefehl über das Heer und somit die größte Macht über sein Land
+### Fluchtversuch vom König(20.-25.06.1791)
+- In einer Poststation
+- Hatte sich nur halbherzig arrangiert für die Revolution
+### Kriegserklärung an Österreich(20.04.1792)
+- Frankreich wird bedroht 
+- Monarchen haben Angst vor Revolution bei ihnen im Land
+- Allgemeine Whrpflicht
+### Sturm auf die Tuilerien(10.08.1792)
+- Stürmen das Stadtschloss und nehmen den König gefangen
+- Girondisten übernehmen die Führung
+### Aufhebung des Königtums(10.08.1792)
+- König wird hingerichtet Frankreich wird zur Republik
 ### Septembermorde
+- höhepunkte von verfolgungen politischer Gegner
 ## Die Konventsherrschaft(1793-1794)
-
-
+- Brauchen wir nicht
+# Wörter
+//Brauche ich nicht
+- Sachurteil `Ein Urteil aus damaliger Sicht`
+- Werturteil `Ein Urteil aus heutiger Sicht`
 
 
 
