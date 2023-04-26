@@ -11,3 +11,8 @@ gemeinsam haben und was sie unterscheidet
 | -------- | --------
 | Sie wollten beide die Unabhängigkeit die Franzosen von dem Monarchen und die Amerikaner von den Briten   | Inhalt
 | Sie wollten mehr Rechte und  weniger Steuern  | Inhalt
+# Klausur Themen
+- die Ideen der Aufklärung
+- Gründe für den Ausbruch der Revolution 
+- Verlauf soweit wir kommen
+- Quellenanalyse
