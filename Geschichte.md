@@ -28,3 +28,28 @@ gemeinsam haben und was sie unterscheidet
 - Lebensmittelengpässe 
 - Missernte vor Vielen Revolutionen 1988
 - Steuerlast nur auf dem dritten Stand
+
+# Quellenanalyse
+---
+## Eineleitung
+- Titel 
+- AUtor 
+- Entstehungsjahr
+- Primärquelle / Traditionsquelle(Biografie/Denkmal) / Sekundärquelle
+- Intention
+- Addressat Öffentlich,Privat
+- Überrest
+- Historisch 
+- Thema
+- Grund
+- Inhaltswiedergabe, Kurz in paar Sätzen
+- Sinnabschnitte machen
+- Überschriften 
+## Historischer Kontext
+- vorher und jetzt 
+- BSp
+- Generalständeversammlung
+- Probleme erklären 
+- System Erklären
+## Bewerten
+- Kommentar
