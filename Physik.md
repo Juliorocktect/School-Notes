@@ -52,4 +52,4 @@
 # Auf welche Geschiwindikeit muss ich beschleunigen
 - t = v/a
 - t = 375.000km/h/14,08m/s^2
-- 
+- t = 104167m/s/14,08m/s^2
