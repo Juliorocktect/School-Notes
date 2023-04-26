@@ -19,3 +19,6 @@ gemeinsam haben und was sie unterscheidet
 - Absolutismus
 - Stände System 
 - Probleme 
+- S. 240 - 248
+- bis 1791 lernen
+- 
