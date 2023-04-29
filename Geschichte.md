@@ -120,7 +120,8 @@ gemeinsam haben und was sie unterscheidet
 - der Kommandant holt sich unterstützung vom König
 - König sendet schweizer gardisten
 - wegen sehr hohen Anspannungen in Paris
--Am morgen wird ein Waffendepot gestürmt, aber dort wird kein Schießpulver gelagert
+- Am morgen wird ein Waffendepot gestürmt, aber dort wird kein Schießpulver gelagert
+- Das Waffendepot vor dem Sturm auf die Bastille war im Hôtel des Invalides in Paris
 #### Wärenddessen
 - Die Miliz stürmt die Bastille, kommt durchs erste Tor
 - Vorm Zweiten ordnet der Kommandant an, dass Geschossen wird
