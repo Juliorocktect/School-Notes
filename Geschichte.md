@@ -182,8 +182,41 @@ gemeinsam haben und was sie unterscheidet
 //Brauche ich nicht
 - Sachurteil `Ein Urteil aus damaliger Sicht`
 - Werturteil `Ein Urteil aus heutiger Sicht`
+# Die Aufklärung
+- Nachdenken Immanuel Kant - Fang an Nachzudenken 
+- Beweisen statt Glauben Heliozentrisch , Geozentrisch
+- Menschenrechte müssen geschützt werden
+- Gewalteinteilng Menschen die Macht bekommen 
+- Zweifeln an der Religion
+- Religionsfreiheit (Vernunft wichtiger als Religion)
 
-
+# John Locke 
+- schon zwei Gewalten (Exekutive, Judikative)
+- für Menhscenrechte jeder hat die Pflicht sich an das Naturgestz zu halten
+- Über Vertrag werden  Rechte an den Staat abgegeben 
+- man gibt das Recht auf selbstjustiz
+- Wiederstandsrecht
+# Hobbes
+- leviatan 
+- Naturzustand (Egoist)
+- Souverräner Herrscher (können mehrere sein)
+- Keine Gewalteinteilung 
+- Bekennt sich zur Monarchie und zum Absolutismus 
+- Sicherheit für die Untergebenen
+- tauschen Freiheit gegen schutz 
+- leviatahn mehresungeheuer der mythologie
+# 
+# Der Absolutismus 
+- Alle Macht geht von einem Herrscher Aus
+- kontrolliert alles
+- hat alle adeligen und wichtigen um sich herum 
+- 4 stützen
+1. Beamte (treue für lebenslange stellung)
+2. Stehendes Heer (verpflichten sich für ihren König zu Kämpfen keine Söldner)
+3. Kontrolliert die Kirche (wurde von Gott als Herrscher eingesetzt)
+4. Die judikative (Er erlässt die Gesätze)
+- Adeligen entmachtet durch gtündung eines Hofstaates
+- wollen die Aufmerksamkeit des Königs
 
 
 
