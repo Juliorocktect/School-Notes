@@ -55,3 +55,7 @@ oil tipping
 - Biggest occurnce in the Rhineland
 - Coal responsible for a large part of co2 emissions
 - 50% effezienter als vorher 
+# Task
+- arguments pro role
+- play this role
+- dalton task......
