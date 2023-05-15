@@ -51,3 +51,7 @@ oil tipping
 ## Questions
 - intorduction
 - - Hello to posdcast & our topic today
+# Brown Coal
+- Biggest occurnce in the Rhineland
+- Coal responsible for a large part of co2 emissions
+- 50% effezienter als vorher 
