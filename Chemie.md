@@ -7,8 +7,7 @@
 - Technischer Kalkreislauf
 - Kohlenstoff Kreislauf
 
-## Natürlicher Kalkkreislauf
- - Regenwasser und Kohlenstoffdioxid(aus der Luft ) => H20 + CO2 <=> H2CO3
- - H_2CO_3
- - \ce{H2O + CO2 -> H2CO3}
-    
+# Sui
+- Mantel **27,5x2,1** für ein mountainbike
+- wie teuer
+- ob das egal ist ob 2,1 oder 2,2
