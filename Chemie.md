@@ -6,5 +6,5 @@
 - Kohlenstoff Kreislauf
 
 ## Natürlicher Kalkkreislauf
- - Regenwasser und Kohlenstoffdioxid(aus der Luft ) =>
+ - Regenwasser und Kohlenstoffdioxid(aus der Luft ) => $A^{-1}$
     
