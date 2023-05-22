@@ -62,6 +62,9 @@ oil tipping
 # Discussion 
 - Assesment of Performance 
 ## Julian
-- 
+- said nthing
 ## Jessica
-- 
+- Good Prounounciation
+- Played the role 
+- good discussion words
+- gives many examples
