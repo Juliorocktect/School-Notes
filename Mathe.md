@@ -22,4 +22,8 @@
 ## Monotonie
 - monoton streng, nicht streng
 - in Intervallen angeben
+# Was ich nicht kann 
+- Trigenometrie 
+- Prozentrechnug 
+- Stochastik
 - 
